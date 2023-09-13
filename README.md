@@ -1,6 +1,6 @@
 # Deep-Learning
-
-
+***********you can find my projrct in "Preparing Data Creating and Training the Model and Model Evaluation.ipynb" 
+*************************************************
 this part consists of .....
 ***********
 1. Introduction to Artificial Neural Networks (ANN)
@@ -17,7 +17,7 @@ this part consists of .....
 
    **********************
    7. Backpropagation
-    **********
+    ***********************************
    8.TensorFlow vs Keras
 *******************
    9. TF Syntax Basics - Part One - Preparing the Data
