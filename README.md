@@ -25,6 +25,7 @@ this part consists of .....
    9. TF Syntax Basics - Part One - Preparing the Data
 ***********************
    10. F Syntax Basics - Part Two - Creating and Training the Model
+
 ***********************
    11. . TF Syntax Basics - Part Three - Model Evaluation
 
@@ -32,3 +33,4 @@ this part consists of .....
    12. . TF Syntax Basics - Part Three - Model Evaluation
 ******************************
    13.  TF Regression Code Along - Exploratory Data Analysis - Continued
+   14.  loading......
