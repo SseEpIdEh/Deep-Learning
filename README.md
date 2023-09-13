@@ -1,5 +1,7 @@
 # Deep-Learning
-***********you can find my projrct in "Preparing Data Creating and Training the Model and Model Evaluation.ipynb" 
+You can find my project in "Preparing Data Creating and Training the Model and Model Evaluation.ipynb" and "TF Regression Code Along - Exploratory Data Analysis 137.ipynb"
+
+****it keep going.....
 *************************************************
 this part consists of .....
 ***********
