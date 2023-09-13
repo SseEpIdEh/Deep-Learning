@@ -4,11 +4,18 @@
 this part consist of learning TensorFlow/Keras 
 
 1. Introduction to Artificial Neural Networks (ANN)
+2. 
 2.Perceptron Model
+
 3.Neral Network
+
 4.Activation Functions
+
 5. Multi-Class Classification Considerations
+6. 
 6.. Cost Functions and Gradient Descent
+
+   **********************
    7. Backpropagation
    8.TensorFlow vs Keras
    9. TF Syntax Basics - Part One - Preparing the Data
